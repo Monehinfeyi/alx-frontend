@@ -1,1 +1,1 @@
-## This directory contains files and code on `html_advanced`project
+## This directory contains files and code on the ```html_advanced``` project.
