@@ -26,7 +26,7 @@ Read or watch:
 * How to detect 404 issues
 * How to move elements on a webpage
 
-  ### Requirements
+  ### Requirements:
 
 * A ```README.md``` file, at the root of the folder of the project, is mandatory
 * Use the newest version of Google Chrome browser (```78.0.3904.70 or later```).
